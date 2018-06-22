@@ -1,0 +1,13 @@
+C:\Users\Tamu Fahnbulleh\OneDrive\Lonestarc#2\EmailAdressBook\EmailAdressBook\bin\Debug\address_book.accdb
+C:\Users\Tamu Fahnbulleh\OneDrive\Lonestarc#2\EmailAdressBook\EmailAdressBook\bin\Debug\EmailAdressBook.exe.config
+C:\Users\Tamu Fahnbulleh\OneDrive\Lonestarc#2\EmailAdressBook\EmailAdressBook\bin\Debug\EmailAdressBook.exe
+C:\Users\Tamu Fahnbulleh\OneDrive\Lonestarc#2\EmailAdressBook\EmailAdressBook\bin\Debug\EmailAdressBook.pdb
+C:\Users\Tamu Fahnbulleh\OneDrive\Lonestarc#2\EmailAdressBook\EmailAdressBook\obj\Debug\EmailAdressBook.AddNew.resources
+C:\Users\Tamu Fahnbulleh\OneDrive\Lonestarc#2\EmailAdressBook\EmailAdressBook\obj\Debug\EmailAdressBook.PersonList.resources
+C:\Users\Tamu Fahnbulleh\OneDrive\Lonestarc#2\EmailAdressBook\EmailAdressBook\obj\Debug\EmailAdressBook.PersonInfo.resources
+C:\Users\Tamu Fahnbulleh\OneDrive\Lonestarc#2\EmailAdressBook\EmailAdressBook\obj\Debug\EmailAdressBook.Properties.Resources.resources
+C:\Users\Tamu Fahnbulleh\OneDrive\Lonestarc#2\EmailAdressBook\EmailAdressBook\obj\Debug\EmailAdressBook.csproj.GenerateResource.cache
+C:\Users\Tamu Fahnbulleh\OneDrive\Lonestarc#2\EmailAdressBook\EmailAdressBook\obj\Debug\EmailAdressBook.csproj.CoreCompileInputs.cache
+C:\Users\Tamu Fahnbulleh\OneDrive\Lonestarc#2\EmailAdressBook\EmailAdressBook\obj\Debug\EmailAdressBook.exe
+C:\Users\Tamu Fahnbulleh\OneDrive\Lonestarc#2\EmailAdressBook\EmailAdressBook\obj\Debug\EmailAdressBook.pdb
+C:\Users\Tamu Fahnbulleh\OneDrive\Lonestarc#2\EmailAdressBook\EmailAdressBook\obj\Debug\EmailAdressBook.csprojAssemblyReference.cache
